@@ -1,0 +1,9 @@
+/Win32
+/Debug
+/Release
+*.exe
+*.dcu
+*.bak
+*/__history
+*/__recovery
+*.~*

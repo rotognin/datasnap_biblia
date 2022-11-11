@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/08 14:51:46.000.447,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/08 14:51:47.000.843,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/11/08 14:51:50.000.702,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:30:41.000.633,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/08 16:31:56.000.206,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\uBiblia.dfm</Transaction>
+    <Transaction>2022/11/08 16:31:56.000.206,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\uBiblia.pas</Transaction>
+    <Transaction>2022/11/08 16:32:28.000.455,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\biblia.dproj</Transaction>
+    <Transaction>2022/11/08 16:35:26.000.246,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnit.pas</Transaction>
+    <Transaction>2022/11/08 16:35:30.000.948,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientModuleUnit.pas</Transaction>
+    <Transaction>2022/11/09 13:58:25.000.321,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 15:39:39.000.753,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\Unit1.pas</Transaction>
+    <Transaction>2022/11/09 15:40:17.000.928,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnit.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnitOLD.pas</Transaction>
+    <Transaction>2022/11/09 15:40:40.000.305,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\Unit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

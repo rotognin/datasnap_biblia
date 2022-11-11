@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{4F8B448F-DEDD-4137-BEED-502FAE2C1351}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="server\bibliaServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="client\biblia.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="bibliaServer">
+        <MSBuild Projects="server\bibliaServer.dproj"/>
+    </Target>
+    <Target Name="bibliaServer:Clean">
+        <MSBuild Projects="server\bibliaServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="bibliaServer:Make">
+        <MSBuild Projects="server\bibliaServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="biblia">
+        <MSBuild Projects="client\biblia.dproj"/>
+    </Target>
+    <Target Name="biblia:Clean">
+        <MSBuild Projects="client\biblia.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="biblia:Make">
+        <MSBuild Projects="client\biblia.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="bibliaServer;biblia"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="bibliaServer:Clean;biblia:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="bibliaServer:Make;biblia:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

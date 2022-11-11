@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/08 14:51:46.000.447,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/08 14:51:47.000.843,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/11/08 14:51:50.000.702,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:18:46.000.228,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:18:46.000.103,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/08 16:18:46.000.348,=C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:21:55.000.712,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ServerContainerUnit.pas</Transaction>
+    <Transaction>2022/11/08 16:21:55.000.712,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ServerContainerUnit.dfm</Transaction>
+    <Transaction>2022/11/08 16:21:59.000.369,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ServerMethodsUnit.pas</Transaction>
+    <Transaction>2022/11/08 16:22:04.000.746,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\uServer.dfm</Transaction>
+    <Transaction>2022/11/08 16:22:04.000.746,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\uServer.pas</Transaction>
+    <Transaction>2022/11/08 16:22:14.000.134,C:\Users\rotog\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\bibliaServer.dproj</Transaction>
+    <Transaction>2022/11/08 16:29:04.000.143,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:29:04.000.645,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2022/11/08 16:32:09.000.432,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ClientModuleUnit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientModuleUnit.pas</Transaction>
+    <Transaction>2022/11/08 16:32:09.000.432,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ClientModuleUnit1.dfm=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientModuleUnit.dfm</Transaction>
+    <Transaction>2022/11/08 16:32:18.000.877,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\ClientClassesUnit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnit.pas</Transaction>
+    <Transaction>2022/11/08 16:35:42.000.178,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientClassesUnit.pas=</Transaction>
+    <Transaction>2022/11/08 16:35:46.000.783,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\client\ClientModuleUnit.pas=</Transaction>
+    <Transaction>2022/11/08 16:49:56.000.134,=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\Unit1.pas</Transaction>
+    <Transaction>2022/11/08 16:50:14.000.408,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\Unit1.dfm=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\uDm.dfm</Transaction>
+    <Transaction>2022/11/08 16:50:14.000.408,C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\Unit1.pas=C:\Rodrigo\Projetos\Delphi\DataSnap\Biblia\server\uDm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
